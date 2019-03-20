@@ -1,2 +1,6 @@
 # ARES
-East Thurston County (ETC) ARES Team
+East Thurston County ARES Team
+
+Our web site:  https://etc-ares.org/
+
+
