@@ -1,282 +1,6 @@
 
 PNW Digital ARES & EMCOMM Check-In Net -  Check-ins for _______________
 
-State:  WA
-   District:  1
-      Counties:  Island, San Juan, Skagit, Snohomish, Whatcom
-
-         AD7UZ Jim [Snohomish]
-         AE7LW Andrew [Skagit] (Skagit County ARES)
-         AF5TR Peter [Skagit]
-         AF9W Robert [Island] (Island County ARES EC)
-         K7IJN Donald [unknown]
-         K7ITE Ric [Skagit] (Skagit County ARES)
-         K7JJM Jeffery [Skagit] (Skagit County ARES AEC)
-         K8TOM Tom [Snohomish]
-         KD7IYT Kyle [Snohomish] (Snohomish County ACS)
-         KD7KBN Matthew [Snohomish] (Snohomish County ACS)
-         KD7OAB Kevin [Snohomish] (Everett ACS)
-         KF7NFB Gary [Snohomish] (Snohomish County EC)
-         KF7VOI James [Skagit]
-         KF7VOL Andy [Whatcom]
-         KG6AKV Dean [Skagit] (SARECC)
-         KG7GTC Robert [Whatcom] (Blaine ACS / Whatcom Communications Group)
-         KG7MYX Michael [Skagit] (Skagit County ARES EC)
-         KG7PMV Rick [Island] (Camano Island ARES)
-         KG7UAE Donald [Island] (Camano Island EC)
-         KI7KUP William [Whatcom]
-         KI7KUR Kevin [Whatcom] (Whatcom County ARES)
-         KI7LDQ Jay [Skagit] (SARECC)
-         KJ7HZD Mark [Skagit] (Skagit County ARES)
-         KJ7YL Stephen [Snohomish]
-         KN6GSG Barry [Skagit]
-         N4LWR John [Skagit]
-         N7QLT Gene [Snohomish]
-         N7RDE Ron [Snohomish]
-         N7TBN Gert [Snohomish] (Snohomish County ACS)
-         N7VIA Christopher [Skagit]
-         W7COM Joe [Snohomish] (Marysville-Tulalip ACS)
-         WB6NAH Richard [Skagit] (SARECC)
-
-   District:  2
-      Counties:  Clallam, Jefferson, Kitsap
-
-         AE2WM Bill [Jefferson] (Jefferson County VE-Comm)
-         AF7PQ Monte [Kitsap]
-         AH6EZ Dick [Jefferson] (Jefferson County ARES EC)
-         K7DBH Fabian [Jefferson]
-         K7DCJ Dave [Jefferson] (Jefferson County VE-Comm)
-         K7NHL Erik [Kitsap] (Kitsap County ARES)
-         K7QCK James [Jefferson] (Jefferson County ARES)
-         K7XFE Christopher [Kitsap]
-         KC7SVI Philip [Kitsap] (Kitsap ARS)
-         KI7AUH Elizabeth [Jefferson] (Port Townsend D-Comm)
-         N7TPR Richard [Jefferson]
-         W7FTC Richard [Kitsap] (Kitsap ACS)
-         W7JCR Club_Call [Jefferson] (Jefferson County EOC)
-
-   District:  3
-      Counties:  Grays Harbor, Lewis, Mason, Pacific, Thurston
-
-         AC7RX Greg [Thurston]
-         AE7TF James [Lewis] (Lewis County ARES)
-         AG7OO Kevin [Thurston] (TCARES)
-         K1CZA Chad [Lewis]
-         K7HVR Todd [Thurston] (TCARES)
-         K7TUM Mark [Thurston]
-         KB7PI Lyle [Lewis] (Centralia ARES)
-         KD7OWN Bob [Lewis] (Centralia ARES EC)
-         KE7PCB Paul [Lewis] (Centralia ARES AEC)
-         KI7JD Martin [Mason]
-         KJ7HJE Michael [Mason]
-         N7GQP Bob [Thurston] (TCARES)
-         N7GWK Bill [Lewis] (Centralia ARES AEC)
-         N7LOL Scott [Grays Harbor] (Coastal Emergency Alert System (EAS))
-         NW7Z Cheryl [Lewis]
-         W7PLC Philip [Thurston] (TCARES AEC-Training)
-         WA7AML Aaron [Thurston] (No Affiliation)
-         WA7C Donald [Thurston]
-
-   District:  4
-      Counties:  Clark, Cowlitz, Skamania, Wahkiakum
-
-         AE7GQ Michael [Clark] (Clark County ARES)
-         K6EYU Tom [Clark]
-         K7GJT Gary [Clark] (Clark County ARES)
-         K7JPX John [Skamania]
-         KB7APU Loren [Clark] (Clark County ARES Team Lead)
-         KE7IN Kevin [Skamania] (Skamania County ARES EC)
-         KJ7AAF Nhat [Clark]
-         KJ7DLV David [Clark]
-         KJ7KTF Don [Skamania]
-         KJ7KTG Dan [Clark]
-         KX1ZYN Mark [Clark]
-         ND7P Don [Clark] (Clark County ARES)
-         W7NCX Dave [Clark] (Clark County ARES Team Lead)
-         WA7PTM Stephen [Clark] (Clark County ARES)
-         WB7OSC Susan [Clark] (Clark County ARES EC)
-         WZ8T David [Clark] (Clark County ARES, OES)
-
-   District:  5
-      Counties:  East Thurston, Pierce
-
-         AB7DG Doug [Pierce] (Pierce County ARES Central Team)
-         K1ZIL Mark [Pierce]
-         K7FNS Franklin [Pierce] (Pierce County ARES East Team)
-         K7PIA Phillip [Pierce] (Pierce County ARES East Team)
-         K7RRL Russell [Pierce] (Pierce County SAR, Boeing ACS)
-         K7SB Lyle [Pierce] (Pierce County ARES East Team EC)
-         KC7AF Dave [Pierce] (Pierce County ARES East Team)
-         KC7ERF Daryl [Pierce] (Pierce County ARES East Team)
-         KC7IBZ Mark [Pierce] (Pierce County ARES)
-         KD4VOM Larry [Pierce] (Roy Area Communications Net EC)
-         KD7KLA Mick [East Thurston] (East Thurston County ARES Team)
-         KF7SCB Verna [Pierce]
-         KI7HAE Rich [Pierce] (No Affiliation)
-         KI7SZZ Toby [East Thurston] (East Thurston County ARES Team)
-         KI7WIR Brent [Pierce] (Pierce County ARES)
-         KM7ISH Susanne [East Thurston] (East Thurston County ARES Team)
-         N7EKB Ed [East Thurston] (East Thurston County ARES Team EC)
-         N7JAJ Armin [Pierce] (Roy Area Communications Net)
-         N7SOI Niles [Pierce] (Pierce County ARES, Asst PIO, Asst Training Officer)
-         W7ITL Wade [Pierce] (No Affiliation)
-         WA7SH Gary [East Thurston] (East Thurston County ARES Team AEC)
-         WB0SRJ Richard [East Thurston] (East Thurston County ARES Team)
-         WW7CH Casey [Pierce] (South Pierce County ARES Team)
-
-   District:  6
-      Counties:  King
-
-         AD7NP Carlos [King]
-         AE7G George [King]
-         K7BIO Colin [King] (Seattle ACS)
-         K7ISQ Club_Call [King] (Issaquah Ham Radio Support Group)
-         K7LFP Lee [King] (Shoreline ACS)
-         K9DPG David [King] (East Side Fire & Rescue, Fire Core Group)
-         KD7GXN William [King]
-         KD7PVY Vince [King] (ARES District M Region 6 EC)
-         KE7CFM Dee [King] (North Bend ARES EC / Puget Sound ARES Team)
-         KE7FEQ Bernard [King] (Woodinville Emergency Comm Team)
-         KE7REF Maureen [King]
-         KE7REG Michael [King]
-         KF7FAC Mary [King]
-         KG7ELE Luis [King] (Redmond ARES Team/CERT Lead)
-         KG7LEA David [King] (Seattle ACS EC)
-         KG7NOO Michael [King]
-         KG7UCL Robert [King] (Seattle ACS)
-         KI7DMS Daniele [King] (Redmond ARES Team)
-         KI7E Paul [King] (Woodinville Emergency Comm Team)
-         KI7JJQ Barry [King]
-         KJ7BNF Paul [King] (No Affiliation)
-         KJ7CDD Frank [King]
-         KJ7ELF Richard [King] (Bellevue Communications Support)
-         KJ7IRL Aiden [King] (North Bend ARES)
-         KM6SO Robert [King]
-         KY0LO Karl [King] (No Affiliation)
-         N4RDZ Ronald [King] (President Emergency Mgmt Group WA Radio Club)
-         N6NBN William [King]
-         N7EWB Eric [King] (Kirkland)
-         N7HMS Erik [King]
-         N7KUW Carl [King]
-         N7LYE Mark [King] (Seattle ACS)
-         N7ROO Matt [King] (North Bend ARES)
-         N7TPM John [King] (Shoreline ACS)
-         N9RDK Andrew [King]
-         NS7C Scott [King] (Maple Valley & Auburn EC)
-         W4MHI Mihai [King] (Issaquah Emergency Comm Team)
-         W7AUX Robert [King] (Shoreline ACS)
-         W7CEB Charles [King] (Woodinville Emergency Comm Team)
-         W7HMT Randy [King] (North Bend ARES)
-         W7MYK Michael [King] (Seattle ACS)
-         W7OBI Mike [King] (Woodinville Emergency Comm Team)
-         W8MJK Michelle [King] (Western Washington Med Services Team)
-         W9SK Stephen [King] (North Bend ARES)
-         WB7AAV Stephen [King] (Federal Way EC)
-         WB7SKI Chris [King]
-         WQ7H James [King] (Kirkland)
-         WT0F Gerald [King]
-         WT1IM Tim [King] (Seattle ACS)
-
-   District:  7
-      Counties:  Chelan, Douglas, Grant, Kittitas, Okanogan
-
-         AE7MK Matt [Douglas]
-         K7DEG Doug [Chelan] (Chelan/Douglas ARES)
-         K7LAD Ladd [Okanogan] (Okanogan County ARES EC)
-         K7RHT Randall [Kittitas]
-         K7RWI Gordon [Kittitas] (Kittitas County ARES)
-         KG7JMI Carl [Kittitas]
-         KI7KDE Derek [Chelan] (Chelan County ARES)
-         N7KLT Dale [Chelan]
-         NO7RF Mike [Okanogan] (No Affiliation)
-         W7CEG Charles [Kittitas] (Kittitas County EC/RO)
-         W7EWH Tad [Okanogan] (Okanogan County ARES AEC)
-         W7LMK Laura [Douglas]
-
-   District:  8
-      Counties:  Benton, Franklin, Klickitat, Walla Walla, Yakima
-
-         KB7HDX Mark [Yakima]
-         KJ7IEG Kun [Walla Walla] (Walla Walla ARES (new call sign is N7DMR))
-         N7DMR Kun [Walla Walla] (Walla Walla ARES)
-
-   District:  9
-      Counties:  Adams, Asotin, Columbia, Ferry, Garfield
-         Lincoln, Pend Orielle, Spokane, Stevens, Whitman
-
-         K7LL Jim [Whitman] (Whitman County ARES AEC)
-         K7MM Dan [Asotin] (Asotin County ARES EC)
-         KC7AAD Rod [Spokane] (Eastern Washington DEC)
-         KI7EOC Club_Call [Whitman] (Whitman County EOC)
-         KI7UIY Nelson [Stevens] (Stevens County ARES)
-         KJ7NJL John [Spokane] (No Affiliation)
-         N7JAG Craig [Stevens] (Stevens County ARES)
-         N7WEB Warren [Pend Orielle]
-         W7JWT James [Stevens] (Stevens County ARES AEC)
-         WA6NDR Rick [Spokane]
-         WA7DGI Damien [Spokane]
-         WA7RF Robert [Stevens] (Eastern Washington Section EC)
-         WA7TPV John [Spokane]
-         WA7VFQ Jim [Whitman] (Latah/Whitman County ARES AEC)
-
-   District:  State EMD
-      KE7IHC Jason (Washington State EMD Camp Murray)
-      W7FF Monte (State RACES Officer)
-      W7SGD Scott (Washington State EMD Camp Murray)
-      WA7TBP George (Washington State EMD Camp Murray)
-
-
-State:  OR
-   District:  1
-      Counties:  Clackamas, Clatsop, Columbia, Multnomah, Tillamook
-         Washington
-
-         AA7BG Bruce [Columbia]
-         K7ZPJ Bruce [Clackamas] (American Red Cross)
-         KE7JFF Ryan [Multnomah] (Mountain Wave Search & Rescue)
-         KI7IF Richard [Columbia] (Columbia County ARES)
-         KI7PYY Arber [Washington]
-         N5GB Bruce [Tillamook] (Nehalem Bay EVC)
-         N7LF Joel [Multnomah] (Multnomah County ARES)
-         N7TTD Chris [Multnomah] (Multnomah County ARES)
-         NX7O Benton [Washington] (Tigard CERT)
-         W6UDF Justin [Multnomah]
-         W7HDF Charles [Multnomah]
-         WB7AWL Albert [Clackamas] (No Affiliation)
-
-   District:  2
-      Counties:  Crook, Deschutes, Hood River, Jefferson, Sherman
-         Wasco
-
-         K7VIZ Colin [Wasco]
-         N7SYC Rebecca [Crook]
-         W7ATR Andrew [Crook]
-
-   District:  3
-      Counties:  Gilliam, Morrow, Umatilla, Union, Wallowa
-         Wheeler
-
-         KB7DZR Scott [Wallowa]
-
-   District:  4
-      Counties:  Benton, Lane, Lincoln, Linn, Marion
-         Polk, Yamhill
-
-         AA1AO Ardi [Yamhill] (Yamhill County ARES)
-         KA7EMS Geoffrey [Lincoln]
-
-   District:  5
-      Counties:  Coos, Curry, Douglas, Jackson, Josephine
-
-         AB7BW Bryan [Josephine]
-         NB7N Bryan [Josephine]
-
-   District:  6
-      Counties:  Baker, Grant, Harney, Klamath, Lake
-         Malheur
-
-
-
 State:  ID
    District:  1
       Counties:  Benewah, Bonner, Boundary, Kootenai, Shoshone
@@ -311,6 +35,305 @@ State:  ID
       Counties:  Bonneville, Butte, Clark, Custer, Fremont
          Jefferson, Lemhi, Madison, Teton
 
+
+
+State:  OR
+   District:  1
+      Counties:  Clackamas, Clatsop, Columbia, Multnomah, Tillamook
+         Washington
+
+         AA7BG Bruce [Columbia]
+         K7ZPJ Bruce [Clackamas] (American Red Cross)
+         KE7JFF Ryan [Multnomah] (Mountain Wave Search & Rescue)
+         KI7IF Richard [Columbia] (Columbia County ARES)
+         KI7PYY Arber [Washington]
+         KI7RCD John [Multnomah]
+         N5GB Bruce [Tillamook] (Nehalem Bay EVC)
+         N7LF Joel [Multnomah] (Multnomah County ARES)
+         N7QME James [Washington]
+         N7TTD Chris [Multnomah] (Multnomah County ARES)
+         NX7O Benton [Washington] (Tigard CERT)
+         W6UDF Justin [Multnomah]
+         W7HDF Charles [Multnomah]
+         WB7AWL Albert [Clackamas] (Clackamas Comm College Rapid Response Team)
+
+   District:  2
+      Counties:  Crook, Deschutes, Hood River, Jefferson, Sherman
+         Wasco
+
+         K7VIZ Colin [Wasco]
+         N7SYC Rebecca [Crook]
+         W7ATR Andrew [Crook]
+
+   District:  3
+      Counties:  Gilliam, Morrow, Umatilla, Union, Wallowa
+         Wheeler
+
+         KB7DZR Scott [Wallowa]
+
+   District:  4
+      Counties:  Benton, Lane, Lincoln, Linn, Marion
+         Polk, Yamhill
+
+         AA1AO Ardi [Yamhill] (Yamhill County ARES)
+         KA7EMS Geoffrey [Lincoln]
+
+   District:  5
+      Counties:  Coos, Curry, Douglas, Jackson, Josephine
+
+         AB7BW Bryan [Josephine]
+         NB7N Bryan [Josephine]
+
+   District:  6
+      Counties:  Baker, Grant, Harney, Klamath, Lake
+         Malheur
+
+
+
+State:  WA
+   District:  1
+      Counties:  Island, San Juan, Skagit, Snohomish, Whatcom
+
+         AD7UZ Jim [Snohomish]
+         AE7LW Andrew [Skagit] (Skagit County ARES)
+         AF5TR Peter [Skagit]
+         AF9W Robert [Island] (Island County ARES EC)
+         K7IJN Donald [unknown]
+         K7ITE Ric [Skagit] (Skagit County ARES)
+         K7JJM Jeffery [Skagit] (Skagit County ARES AEC)
+         K8TOM Tom [Snohomish]
+         KA7RRA David [Snohomish]
+         KD7IYT Kyle [Snohomish] (Snohomish County ACS)
+         KD7KBN Matthew [Snohomish] (Snohomish County ACS)
+         KD7OAB Kevin [Snohomish] (Everett ACS)
+         KF7NFB Gary [Snohomish] (Snohomish County EC)
+         KF7VOI James [Skagit]
+         KF7VOL Andy [Whatcom]
+         KG6AKV Dean [Skagit] (SARECC)
+         KG7GTC Robert [Whatcom] (Blaine ACS / Whatcom Communications Group)
+         KG7MYX Michael [Skagit] (Skagit County ARES EC)
+         KG7PMV Rick [Island] (Camano Island ARES)
+         KG7UAE Donald [Island] (Camano Island EC)
+         KI7KUP William [Whatcom]
+         KI7KUR Kevin [Whatcom] (Whatcom County ARES)
+         KI7LDQ Jay [Skagit] (SARECC)
+         KJ7FGF William [Island]
+         KJ7LTT Lee [Island]
+         KJ7YL Stephen [Snohomish]
+         KK7MIK Michael [Skagit] (Skagit County ARES)
+         KN6GSG Barry [Skagit]
+         N0LUV Mark [Skagit] (Skagit County ARES)
+         N4LWR John [Skagit]
+         N7QLT Gene [Snohomish]
+         N7RDE Ron [Snohomish]
+         N7TBN Gert [Snohomish] (Snohomish County ACS)
+         N7TCX William [Snohomish]
+         N7VIA Christopher [Skagit]
+         W7COM Joe [Snohomish] (Marysville-Tulalip ACS)
+         WB6NAH Richard [Skagit] (SARECC)
+         WR5TX Royce [Whatcom]
+
+   District:  2
+      Counties:  Clallam, Jefferson, Kitsap
+
+         AE2WM Bill [Jefferson] (Jefferson County VE-Comm)
+         AF7PQ Monte [Kitsap]
+         AH6EZ Dick [Jefferson] (Jefferson County ARES EC)
+         K7DBH Fabian [Jefferson]
+         K7DCJ Dave [Jefferson] (Jefferson County VE-Comm)
+         K7DK Mark [Jefferson]
+         K7NHL Erik [Kitsap] (Kitsap County ARES)
+         K7QCK James [Jefferson] (Jefferson County ARES)
+         K7XFE Christopher [Kitsap]
+         KC7MAW Mike [Kitsap] (No Affiliation)
+         KC7SVI Philip [Kitsap] (Kitsap ARS)
+         KI7AUH Elizabeth [Jefferson] (Port Townsend D-Comm)
+         KJ7RSL Charles [Kitsap]
+         N7TPR Richard [Jefferson]
+         W7FTC Richard [Kitsap] (Kitsap ACS)
+         W7JCR Club_Call [Jefferson] (Jefferson County EOC)
+
+   District:  3
+      Counties:  Grays Harbor, Lewis, Mason, Pacific, Thurston
+
+         AC7RX Greg [Thurston]
+         AE7TF James [Lewis] (Lewis County ARES)
+         AG7OO Kevin [Thurston] (TCARES)
+         K1CZA Chad [Lewis]
+         K7HVR Todd [Thurston] (TCARES)
+         K7TUM Mark [Thurston]
+         KB7PI Lyle [Lewis] (Centralia ARES)
+         KD7OWN Bob [Lewis] (Centralia ARES EC)
+         KE7PCB Paul [Lewis] (Centralia ARES AEC)
+         KF7RDB Mike [Thurston] (TCARES)
+         KI7JD Martin [Mason]
+         KJ7HJE Michael [Mason]
+         N7GQP Bob [Thurston] (TCARES)
+         N7GWK Bill [Lewis] (Centralia ARES AEC)
+         N7LOL Scott [Grays Harbor] (Coastal Emergency Alert System (EAS))
+         NW7Z Cheryl [Lewis]
+         W7PLC Philip [Thurston] (TCARES AEC-Training)
+         W7SLT Stephen [Thurston] (TCARES EC/RO)
+         WA7AML Aaron [Thurston] (No Affiliation)
+         WA7C Donald [Thurston]
+
+   District:  4
+      Counties:  Clark, Cowlitz, Skamania, Wahkiakum
+
+         AE7GQ Michael [Clark] (Clark County ARES EC)
+         K6EYU Tom [Clark]
+         K7GJT Gary [Clark] (Clark County ARES)
+         K7JPX John [Skamania]
+         KB7APU Loren [Clark] (Clark County ARES Team Lead)
+         KE7IN Kevin [Skamania] (Skamania County ARES EC)
+         KJ7AAF Nhat [Clark]
+         KJ7DLV David [Clark]
+         KJ7KTF Don [Skamania] (Skamania County ARES)
+         KJ7KTG Dan [Clark]
+         KX1ZYN Mark [Clark]
+         ND7P Don [Clark] (Clark County ARES)
+         W7NCX Dave [Clark] (Clark County ARES)
+         WA7PTM Stephen [Clark] (Clark County ARES)
+         WB7OSC Susan [Clark] (Clark County ARES)
+         WZ8T David [Clark] (Clark County ARES, OES)
+
+   District:  5
+      Counties:  East Thurston, Pierce
+
+         AB7DG Doug [Pierce] (Pierce County ARES Central Team)
+         K1ZIL Mark [Pierce]
+         K7FNS Franklin [Pierce] (Pierce County ARES East Team)
+         K7PIA Phillip [Pierce] (Pierce County ARES East Team)
+         K7RRL Russell [Pierce] (Pierce County SAR, Boeing ACS)
+         K7SB Lyle [Pierce] (Pierce County ARES East Team EC)
+         KC7AF Dave [Pierce] (Pierce County ARES East Team)
+         KC7ERF Daryl [Pierce] (Pierce County ARES East Team)
+         KC7IBZ Mark [Pierce] (Pierce County ARES)
+         KD4VOM Larry [Pierce] (Roy Area Communications Net EC)
+         KD7KLA Mick [East Thurston] (East Thurston County ARES Team)
+         KE4COS  [Pierce] (Pierce County ARES Central Team)
+         KF7SCB Verna [Pierce]
+         KI7HAE Rich [Pierce] (No Affiliation)
+         KI7JYG Nicholas [Pierce]
+         KI7SZZ Toby [East Thurston] (East Thurston County ARES Team)
+         KI7WIR Brent [Pierce] (Pierce County ARES)
+         KM7ISH Susanne [East Thurston] (East Thurston County ARES Team)
+         N7EKB Ed [East Thurston] (East Thurston County ARES Team EC)
+         N7JAJ Armin [Pierce] (Roy Area Communications Net)
+         N7SOI Niles [Pierce] (Pierce County ARES, Asst PIO, Asst Training Officer)
+         W7ITL Wade [Pierce] (No Affiliation)
+         WA7SH Gary [East Thurston] (East Thurston County ARES Team AEC)
+         WB0SRJ Richard [East Thurston] (East Thurston County ARES Team)
+         WW7CH Casey [Pierce] (South Pierce County ARES Team)
+
+   District:  6
+      Counties:  King
+
+         AD7NP Carlos [King]
+         AE7G George [King]
+         K7AHC Andrew [King]
+         K7BIO Colin [King] (Seattle ACS)
+         K7ISQ Club_Call [King] (Issaquah Ham Radio Support Group)
+         K7LFP Lee [King] (Shoreline ACS)
+         K9DPG David [King] (East Side Fire & Rescue, Fire Core Group)
+         KD7GXN William [King]
+         KD7PVY Vince [King] (ARES District M Region 6 EC)
+         KE7CFM Dee [King] (North Bend ARES EC / Puget Sound ARES Team)
+         KE7FEQ Bernard [King] (Woodinville Emergency Comm Team)
+         KE7REF Maureen [King]
+         KE7REG Michael [King]
+         KF7FAC Mary [King]
+         KG7ELE Luis [King] (Redmond ARES Team/CERT Lead)
+         KG7LEA David [King] (Seattle ACS EC)
+         KG7NOO Michael [King]
+         KG7UCL Robert [King] (Seattle ACS)
+         KI7APY Matthew [King] (Redmond ARES Team)
+         KI7DMS Daniele [King] (Redmond ARES Team)
+         KI7E Paul [King] (Woodinville Emergency Comm Team)
+         KI7JJQ Barry [King]
+         KJ7BNF Paul [King] (No Affiliation)
+         KJ7CDD Frank [King]
+         KJ7ELF Richard [King] (Bellevue Communications Support)
+         KJ7IRL Aiden [King] (North Bend ARES)
+         KJ7ISG Douglas [King] (North Bend ARES)
+         KJ7QFH Evan [King]
+         KM6SO Robert [King]
+         KY0LO Karl [King] (No Affiliation)
+         N4RDZ Ronald [King] (President Emergency Mgmt Group WA Radio Club)
+         N6NBN William [King] (Seattle ACS / Seattle Red Cross)
+         N7EWB Eric [King] (Kirkland)
+         N7HMS Erik [King]
+         N7KUW Carl [King]
+         N7LYE Mark [King] (Seattle ACS)
+         N7ROO Matt [King] (North Bend ARES)
+         N7TPM John [King] (Shoreline ACS)
+         N9RDK Andrew [King]
+         NG7N Craig [King]
+         NS7C Scott [King] (Maple Valley & Auburn EC)
+         W4MHI Mihai [King] (Issaquah Emergency Comm Team)
+         W7AUX Robert [King] (Shoreline ACS)
+         W7CEB Charles [King] (Woodinville Emergency Comm Team)
+         W7HMT Randy [King] (North Bend ARES)
+         W7MYK Michael [King] (Seattle ACS)
+         W7OBI Mike [King] (Woodinville Emergency Comm Team)
+         W8MJK Michelle [King] (Western Washington Med Services Team)
+         W9SK Stephen [King] (North Bend ARES)
+         WB7AAV Stephen [King] (Federal Way EC)
+         WB7SKI Chris [King]
+         WQ7H James [King] (Kirkland)
+         WT0F Gerald [King]
+         WT1IM Tim [King] (Seattle ACS)
+
+   District:  7
+      Counties:  Chelan, Douglas, Grant, Kittitas, Okanogan
+
+         AE7MK Matt [Douglas]
+         K7DEG Doug [Chelan] (Chelan/Douglas ARES)
+         K7LAD Ladd [Okanogan] (Okanogan County ARES EC)
+         K7RHT Randall [Kittitas]
+         K7RWI Gordon [Kittitas] (Kittitas County ARES)
+         KF7QNN Robert [Grant] (No Affiliation)
+         KG7JMI Carl [Kittitas]
+         KI7KDE Derek [Chelan] (Chelan County ARES)
+         N7KLT Dale [Chelan]
+         NO7RF Mike [Okanogan] (No Affiliation)
+         W7CEG Charles [Kittitas] (Kittitas County EC/RO)
+         W7EWH Tad [Okanogan] (Okanogan County ARES AEC)
+         W7LMK Laura [Douglas]
+
+   District:  8
+      Counties:  Benton, Franklin, Klickitat, Walla Walla, Yakima
+
+         KB7HDX Mark [Yakima]
+         KJ7IEG Kun [Walla Walla] (Walla Walla ARES (new call sign is N7DMR))
+         N7DMR Kun [Walla Walla] (Walla Walla ARES)
+
+   District:  9
+      Counties:  Adams, Asotin, Columbia, Ferry, Garfield
+         Lincoln, Pend Orielle, Spokane, Stevens, Whitman
+
+         K7LL Jim [Whitman] (Whitman County ARES AEC)
+         K7MM Dan [Asotin] (Asotin County ARES EC)
+         KC7AAD Rod [Spokane] (Eastern Washington DEC)
+         KI7EOC Club_Call [Whitman] (Whitman County EOC)
+         KI7KEU Brian [Spokane]
+         KI7UIY Nelson [Stevens] (Stevens County ARES)
+         KJ7NJL John [Spokane] (No Affiliation)
+         KJ7RMQ Erin [Whitman]
+         N7JAG Craig [Stevens] (Stevens County ARES)
+         N7WEB Warren [Pend Orielle]
+         W7JWT James [Stevens] (Stevens County ARES AEC)
+         WA6NDR Rick [Spokane]
+         WA7DGI Damien [Spokane]
+         WA7RF Robert [Stevens] (Eastern Washington Section EC)
+         WA7TPV John [Spokane]
+         WA7VFQ Jim [Whitman] (Latah/Whitman County ARES AEC)
+
+   District:  State EMD
+      KE7IHC Jason (Washington State EMD Camp Murray)
+      W7FF Monte (State RACES Officer)
+      W7SGD Scott (Washington State EMD Camp Murray)
+      WA7TBP George (Washington State EMD Camp Murray)
 
 
 Country:  Philippines
